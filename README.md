@@ -16,6 +16,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmet-cevik&show_icons=true&locale=en" alt="mehmet-cevik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cevikdev&show_icons=true&locale=en" alt="cevikdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmet-cevik&" alt="mehmet-cevik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cevikdev&" alt="cevikdev" /></p>
