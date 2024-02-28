@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Çevik</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working [small projects on instagram](https://www.instagram.com/mehmetcevik.dev/)
+- 🔭 I’m currently working [small projects on instagram](https://www.instagram.com/mehmetcevikdev/)
 
 - 🌱 I’m currently learning **Frontend**
 
