@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mehmet Çevik</h1>
 <h3 align="center"> Junior Frontend Developer </h3>
 
-- I am currently interning at Technoone Software Systems.
+- I am working as an intern at Technoone Software Systems.
 
-- I am currently learning frontend development.
+- I am learning frontend development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
